@@ -20,7 +20,7 @@ https://learnk8s.io/spring-boot-kubernetes-guide
 ### 編譯
 maven
 ``` 
-mvn clean package
+mvn clean package -Dmaven.test.skip=true
 ```
 ### 執行
 maven
@@ -60,6 +60,8 @@ docker network create knote
 docker run -d --name=mongo --rm --network=knote mongo
 docker run -d --name=knote-java --rm --network=knote -p 8080:8080 -e MONGO_URL=mongodb://mongo:27017/dev knote-java 
 ```
+> 如果無法啟動mongoDB，可能是docker版本太舊
+> https://docs.docker.com/engine/install/ubuntu/
 
 
 # 停止
