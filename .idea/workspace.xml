@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b36ab9c7-bd23-4620-80f9-488d9bb2af26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SpringBoot_mongoDB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+    <list default="true" id="b36ab9c7-bd23-4620-80f9-488d9bb2af26" name="Changes" comment="knote+mongoDB+docker=OK this work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knote-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/knote-java/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +48,34 @@
       <option name="presentableId" value="Default" />
       <updated>1697783389004</updated>
       <workItem from="1697783390164" duration="9000" />
-      <workItem from="1697783642136" duration="3913000" />
+      <workItem from="1697783642136" duration="5086000" />
     </task>
+    <task id="LOCAL-00001" summary="knote+mongoDB+docker=OK this work">
+      <created>1697788067745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697788067745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="knote+mongoDB+docker=OK this work" />
+    <option name="LAST_COMMIT_MESSAGE" value="knote+mongoDB+docker=OK this work" />
   </component>
 </project>

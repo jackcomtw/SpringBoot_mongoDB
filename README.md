@@ -62,9 +62,10 @@ docker run -d --name=knote-java --rm --network=knote -p 8080:8080 -e MONGO_URL=m
 ```
 
 
-
+# 停止
 ```
-
+docker stop mongo knote-java
+docker rm mongo knote-java
 ```
 
 
