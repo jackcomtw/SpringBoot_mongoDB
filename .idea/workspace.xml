@@ -7,7 +7,8 @@
     <list default="true" id="b36ab9c7-bd23-4620-80f9-488d9bb2af26" name="Changes" comment="knote+mongoDB+docker=OK this work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knote-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/knote-java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knote-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/knote-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knote-java/src/main/java/io/learnk8s/knote/KnoteJavaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/knote-java/src/main/java/io/learnk8s/knote/KnoteJavaApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/workspace/SpringBoot_mongoDB",
+    "last_opened_file_path": "/home/jackchen/workspace/SpringBoot_mongoDB/knote-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +50,7 @@
       <updated>1697783389004</updated>
       <workItem from="1697783390164" duration="9000" />
       <workItem from="1697783642136" duration="5086000" />
+      <workItem from="1697956652778" duration="3785000" />
     </task>
     <task id="LOCAL-00001" summary="knote+mongoDB+docker=OK this work">
       <created>1697788067745</created>
